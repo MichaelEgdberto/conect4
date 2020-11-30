@@ -1,0 +1,27 @@
+{
+  "name": "counting-char",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node exercise.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathangomz-courses/counting-char.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathangomz-courses/counting-char/issues"
+  },
+  "homepage": "https://github.com/jonathangomz-courses/counting-char#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
